@@ -19,7 +19,7 @@ To mark a product as Featured, simply go to the product listing via Products->Vi
 ## Full Banner
 
 
-The full Banner is made using a BigCommerce widget. You can change it in the [Page Builder](/#page-builder).
+The full Banner is made using a BigCommerce widget. You can change it in the [Page Builder](index.md/#page-builder).
 
 You can change the text by clicking on it
 
