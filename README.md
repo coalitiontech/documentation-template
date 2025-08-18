@@ -15,4 +15,4 @@ Welcome to the project documentation template! This template is designed to help
    `mkdocs serve`
 
 5. Once the changes are ready, you can deploy using the command:
-   `gh-deploy`
+   `mkdocs gh-deploy`
