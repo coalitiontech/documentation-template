@@ -16,3 +16,5 @@ Welcome to the project documentation template! This template is designed to help
 
 5. Once the changes are ready, you can deploy using the command:
    `mkdocs gh-deploy`
+
+6. To visit the page available online, go to your GitHub repository, then go to Settings->Pages and you should see the link. If it's not working, make sure your repository is set as public and that the branch selected for the live page is gh-pages.
